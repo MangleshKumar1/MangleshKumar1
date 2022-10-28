@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MangleshKumar1
+- 👋 Hi, I’m Manglesh Kumar
 - 👀 I’m interested in learn to code and solving real world problems. 
 - 🌱 I’m currently learning C,C++,Web development.
 - Reach me  mgleshkumar42343@gmail.com
