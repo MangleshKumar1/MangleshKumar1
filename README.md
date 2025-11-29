@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manglesh Kumar
 - 👀 I’m interested in learn to code and solving real world problems. 
-- 🌱 I’m currently learning C,C++,Web development.
+- 🌱 I’m currently learning C,C++,Web development( JAVA Spring boot Full stack Web Development)
 - Reach me  mgleshkumar42343@gmail.com
 
 <!---
